@@ -1,0 +1,22 @@
+{
+  "name": "basics_nodejs",
+  "version": "1.0.0",
+  "description": "firstp",
+  "main": "hello_world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipshae/basics_nodejs.git"
+  },
+  "author": "Vipul Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipshae/basics_nodejs/issues"
+  },
+  "homepage": "https://github.com/vipshae/basics_nodejs#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
